@@ -1,0 +1,7 @@
+1. Number of files in root directory: 25
+2. Available user programs in xv6: cat, echo, forktest, grep, init, kill, ln, ls, mkdir, rm, sh, stressfs, usertests, grind, wc, zombie, logstress, forphan, dorphan, console
+
+Bonus
+usertests: ~8 mins, tests many different functions and behavior of edge cases, ALL TESTS PASSED
+forktest: <1 sec, tests if forking works, OK
+stressfs: 1 sec, tests lots of reading and writing to file, seems OK
