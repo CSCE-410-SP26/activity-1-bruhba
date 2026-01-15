@@ -1,5 +1,30 @@
-$ ls -l
-ls: cannot open -l
+$ ls
+.              1 1 8496
+..             1 1 8496
+README         2 2 2627
+cat            2 3 35408
+echo           2 4 34312
+forktest       2 5 17264
+grep           2 6 42752
+init           2 7 34784
+kill           2 8 34248
+ln             2 9 34064
+ls             2 10 41528
+mkdir          2 11 34304
+rm             2 12 34296
+sh             2 13 56128
+stressfs       2 14 35160
+usertests      2 15 186048
+grind          2 16 50512
+wc             2 17 36344
+zombie         2 18 33672
+logstress      2 19 36208
+forphan        2 20 35072
+dorphan        2 21 34512
+console        3 22 0
+myfile.txt     2 23 17
+testdir        1 24 32
+output.txt     2 25 9
 $ cat README
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FS6dDysu)
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
@@ -22,4 +47,3 @@ Abhinavpatel00, Takahiro Aoyagi, Marcelo Arroyo, Hirbod Behnam, Silas
 Boyd-Wickizer, Anton Burtsev, carlclone, Ian Chen, clivezeng, Dan
 Cross, Cody Cutler, Mike CAT, Tej Chajed, Asami Doi,Wenyang Duan,
 echtwerner, eyalz800, Nelson Elhage, Saar Ettinger, Alice Ferrazzi,
-$
